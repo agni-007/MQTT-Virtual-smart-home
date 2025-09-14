@@ -43,7 +43,7 @@ The system is built around a **central MQTT broker** that connects three main cl
   - Provides remote access from a smartphone.
   - Performs the same functions as Node-RED.
  
-  <img width="940" height="321" alt="Image" src="https://github.com/user-attachments/assets/d63ce600-3c02-4cbe-a5cf-96f183179590" />
+  <img width="850" height="300" alt="Image" src="https://github.com/user-attachments/assets/d63ce600-3c02-4cbe-a5cf-96f183179590" />
 
 ### 🔄 Communication Flow (Publish-Subscribe Model)
 
@@ -52,6 +52,8 @@ The system is built around a **central MQTT broker** that connects three main cl
   - **ESP32 Sensor Data** → Publishes to topic → Subscribed by **Node-RED & Mobile App** → Displayed in real-time.
 
 ---
+
+<img width="350" height="250" alt="Image" src="https://github.com/user-attachments/assets/5dd5b51f-55e4-4dad-bb2c-55499a3b5c80" />
 
 ## 💻 Tools & Technologies
 
