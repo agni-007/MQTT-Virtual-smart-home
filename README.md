@@ -42,6 +42,8 @@ The system is built around a **central MQTT broker** that connects three main cl
 - **Mobile MQTT Client App**
   - Provides remote access from a smartphone.
   - Performs the same functions as Node-RED.
+ 
+  <img width="940" height="321" alt="Image" src="https://github.com/user-attachments/assets/d63ce600-3c02-4cbe-a5cf-96f183179590" />
 
 ### 🔄 Communication Flow (Publish-Subscribe Model)
 
