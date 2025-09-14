@@ -1,4 +1,4 @@
-<img width="3188" height="1202" align="center" alt="Image" src="https://github.com/user-attachments/assets/9a6cd590-4368-4e06-9685-4e7d2b400ef4" />
+<img width="500" height="500" align="center" alt="Image" src="https://github.com/user-attachments/assets/9a6cd590-4368-4e06-9685-4e7d2b400ef4" />
 
 
 # 🏡 Virtual Smart Home with MQTT
