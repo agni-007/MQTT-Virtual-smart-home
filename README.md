@@ -74,4 +74,7 @@ The system is built around a **central MQTT broker** that connects three main cl
 - **DHT22 Sensor** – Provides temperature & humidity data.  
 
 ---
+# The circuit diagram is shown below
+
+<img width="500" height="350" alt="Image" src="https://github.com/user-attachments/assets/61de8534-1aac-49ab-95b0-a61138ea0e24" />
 
