@@ -1,3 +1,7 @@
+<img width="3188" height="1202" alt="frame (3)" src="C:\Users\HP\Downloads\Gemini_Generated_Image_djjmkpdjjmkpdjjm.png" />
+
+
+
 🏡 Virtual Smart Home with MQTT
 This project creates a simulated smart home system using a virtual ESP32 microcontroller within the Wokwi online simulator. It's a comprehensive demonstration of the MQTT (Message Queuing Telemetry Transport) protocol, showcasing bidirectional communication between a microcontroller, a web dashboard, and a mobile app.
 
